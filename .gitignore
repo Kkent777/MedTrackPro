@@ -1,0 +1,14 @@
+# Local Android configuration, credentials and generated files
+.DS_Store
+.gradle/
+.kotlin/
+.idea/
+**/build/
+local.properties
+.env
+.env.*
+*.jks
+*.keystore
+*.apk
+*.aab
+captures/
