@@ -52,3 +52,5 @@ GitHub Actions built the debug APK with JDK 21 and Android SDK 36.1. The reposit
 SDK setup: [Android 16 QPR2 / API 36.1](https://developer.android.com/about/versions/16/qpr2/setup-sdk).
 
 中文：MedTrackPro 展示 Android 页面导航、状态管理、Room 持久化和 CSV 导入等能力。公开版使用虚构演示资料，不包含原始课程文件、个人密钥或本机 SDK 路径。
+
+[中文项目简介（PDF）](docs/portfolio/Project-Brief-ZH.pdf)
