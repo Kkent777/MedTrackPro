@@ -56,7 +56,7 @@ fun WelcomeScreen(
         Spacer(modifier = Modifier.height(24.dp))
 
         Text(
-            text = "Portfolio demonstration",
+            text = "Fictional patient data",
             style = MaterialTheme.typography.titleMedium,
             fontWeight = FontWeight.SemiBold
         )

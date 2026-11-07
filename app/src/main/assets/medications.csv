@@ -1,16 +1,16 @@
 PatientID,MedicationName,Dosage,Frequency,ScheduledTime,MedicationType,Notes
-P1001,Metformin,500mg,Twice daily,08:00,Tablet,Fictional portfolio demonstration record.
-P1001,Lisinopril,10mg,Once daily,07:00,Tablet,Fictional portfolio demonstration record.
-P1002,Amoxicillin,250mg,Three times daily,08:00,Capsule,Fictional portfolio demonstration record.
-P1002,Ibuprofen,200mg,As needed,12:00,Tablet,Fictional portfolio demonstration record.
-P1003,Atorvastatin,20mg,Once daily,21:00,Tablet,Fictional portfolio demonstration record.
-P1003,Salbutamol,100ml,As needed,09:00,Liquid,Fictional portfolio demonstration record.
-P1004,Omeprazole,20mg,Once daily,07:30,Capsule,Fictional portfolio demonstration record.
-P1004,Paracetamol,500mg,As needed,08:00,Tablet,Fictional portfolio demonstration record.
-P1005,Sertraline,50mg,Once daily,08:00,Tablet,Fictional portfolio demonstration record.
-P1005,Metoprolol,25mg,Twice daily,08:00,Tablet,Fictional portfolio demonstration record.
-P1006,Doxycycline,100mg,Twice daily,08:00,Capsule,Fictional portfolio demonstration record.
-P1007,Cetirizine,10mg,Once daily,22:00,Tablet,Fictional portfolio demonstration record.
-P1008,Pantoprazole,40mg,Once daily,07:00,Tablet,Fictional portfolio demonstration record.
-P1009,Prednisone,5mg,Once daily,08:00,Tablet,Fictional portfolio demonstration record.
-P1010,Amlodipine,5mg,Once daily,08:00,Tablet,Fictional portfolio demonstration record.
+P1001,Metformin,500mg,Twice daily,08:00,Tablet,Fictional demo record.
+P1001,Lisinopril,10mg,Once daily,07:00,Tablet,Fictional demo record.
+P1002,Amoxicillin,250mg,Three times daily,08:00,Capsule,Fictional demo record.
+P1002,Ibuprofen,200mg,As needed,12:00,Tablet,Fictional demo record.
+P1003,Atorvastatin,20mg,Once daily,21:00,Tablet,Fictional demo record.
+P1003,Salbutamol,100ml,As needed,09:00,Liquid,Fictional demo record.
+P1004,Omeprazole,20mg,Once daily,07:30,Capsule,Fictional demo record.
+P1004,Paracetamol,500mg,As needed,08:00,Tablet,Fictional demo record.
+P1005,Sertraline,50mg,Once daily,08:00,Tablet,Fictional demo record.
+P1005,Metoprolol,25mg,Twice daily,08:00,Tablet,Fictional demo record.
+P1006,Doxycycline,100mg,Twice daily,08:00,Capsule,Fictional demo record.
+P1007,Cetirizine,10mg,Once daily,22:00,Tablet,Fictional demo record.
+P1008,Pantoprazole,40mg,Once daily,07:00,Tablet,Fictional demo record.
+P1009,Prednisone,5mg,Once daily,08:00,Tablet,Fictional demo record.
+P1010,Amlodipine,5mg,Once daily,08:00,Tablet,Fictional demo record.
