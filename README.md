@@ -47,7 +47,7 @@ This application is an educational prototype. Its local account flow stores demo
 ./gradlew :app:assembleDebug :app:testDebugUnitTest
 ```
 
-Building requires a matching local Android SDK. The repository keeps the original project toolchain rather than silently lowering its SDK or plugin requirements. The initial publication review checked 52 Kotlin files, internal references, XML resources and CSV relationships; the local build could not finish because that machine had no Android SDK. The GitHub Actions workflow supplies the requested SDK and runs the build and unit-test tasks. Runtime behaviour, device permissions and live provider responses require separate device checks.
+GitHub Actions built the debug APK with JDK 21 and Android SDK 36.1. The repository has no JVM unit tests, so Gradle reports `:app:testDebugUnitTest NO-SOURCE`. Checking the screens and runtime permissions requires a device or emulator. Checking live Gemini responses also requires a configured development key. [View the verified build](https://github.com/Kkent777/MedTrackPro/actions/runs/42109363975/attempts/2).
 
 SDK setup: [Android 16 QPR2 / API 36.1](https://developer.android.com/about/versions/16/qpr2/setup-sdk).
 
